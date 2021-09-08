@@ -228,6 +228,7 @@
 - [xrkffgg](https://github.com/xrkffgg/xrkffgg)
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
+- [Minja](https://github.com/minime89-maker)
 - [Rishav Anand](https://github.com/rishavanand/rishavanand)
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
